@@ -1,2 +1,2 @@
-# CalorieCalculator
+# Calorie Calculator
 
