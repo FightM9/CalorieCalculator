@@ -14,7 +14,7 @@ The Calorie Calculator project is simply in HTML, CSS, and JavaScript. You can c
 
 ## Screenshot
 
-![preview](C:\Users\BIG\Documents\Visual Studio Code\calorie-calculator\readme\preview.png)
+![preview](./assets/preview.png)
 
 
 ## Technologies Used 
