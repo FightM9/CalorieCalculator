@@ -43,8 +43,8 @@
   --color-gray-lightest: #dcdcdc;
   --color-text-black: #2A2B3C;
   --color-text-white: #ffffff;
-  --color-background: #F4F8FB;
-  --color-background-main: #ffffff;
+  --color-background: #ddeaf3;
+  --color-card-background: #ffffff;
   --color-accent: #4A61ED;
   --color-accent-hover: #273ECB;
   --color-accent-active: #6177FB;
@@ -60,6 +60,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: var(--color-background);
 }
 
 html {
@@ -88,7 +89,6 @@ body {
   flex: 1 0 auto;
   -webkit-box-flex: 1;
   -ms-flex: 1 0 auto;
-  background-color: var(--color-background);
 }
 
 
@@ -238,7 +238,7 @@ input[type="number"] {
 
 .counter__form,
 .counter__result {
-  background-color: var(--color-background-main);
+  background-color: var(  --color-card-background);
   box-shadow: 0px 6px 20px 8px rgba(208, 208, 208, 0.3);
 }
 
