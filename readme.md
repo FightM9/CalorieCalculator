@@ -1,6 +1,7 @@
 # Calorie Calculator
 
 A vanilla JavaScript app to calculate how many calories you need to eat per day to maintain/lose weight. 
+
 Try out now on 👉🏼 https://fightm9.github.io/calorie-calculator/
 
 # 🥕 Simple Calorie Calculator
